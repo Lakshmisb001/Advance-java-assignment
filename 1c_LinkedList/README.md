@@ -1,4 +1,4 @@
-1c.1 LinkedList_ElementsWithPositions output link:https://github.com/Lakshmisb001/Advance-java-assignment/blob/main/LinkedList/Screenshot%202025-05-19%20221514.png
+1c.1 LinkedList_ElementsWithPositions output link:https://github.com/Lakshmisb001/Advance-java-assignment/blob/main/1c_LinkedList/Screenshot%202025-05-19%20221514.png
 
 1c.2 LinkedList_InsertAtEnd output link:https://github.com/Lakshmisb001/Advance-java-assignment/blob/main/LinkedList/Screenshot%202025-05-19%20221528.png
 
