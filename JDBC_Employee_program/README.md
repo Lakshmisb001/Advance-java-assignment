@@ -10,6 +10,6 @@ screenshot2:https://github.com/Lakshmisb001/Advance-java-assignment/blob/main/JD
 
 screenshot2:https://github.com/Lakshmisb001/Advance-java-assignment/blob/main/JDBC_Employee_program/Screenshot%202025-05-22%20163918.png
 
-9d.Delete employee records output link:screenshot1:https://github.com/Lakshmisb001/Advance-java-assignment/blob/main/JDBC_Employee_program/9d.1.png
+9d.Delete employee records output link:screenshot1:https://github.com/Lakshmisb001/Advance-java-assignment/blob/main/JDBC_Employee_program/Screenshot%20of%20output%209d.1.png
 
-screenshot2:https://github.com/Lakshmisb001/Advance-java-assignment/blob/main/JDBC_Employee_program/9d.2.png 
+screenshot2:https://github.com/Lakshmisb001/Advance-java-assignment/blob/main/JDBC_Employee_program/Screenshot%20of%20output%209d.2.png 
