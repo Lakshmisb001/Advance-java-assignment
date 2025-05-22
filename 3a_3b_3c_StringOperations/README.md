@@ -6,7 +6,7 @@ screenshot2 :https://github.com/Lakshmisb001/Advance-java-assignment/blob/main/3
 
 3b.2 CountOccurrences output link :https://github.com/Lakshmisb001/Advance-java-assignment/blob/main/3a_3b_3c_StringOperations/Screenshot%202025-05-19%20232735.png
 
-3b.3 ReverString output link :https://github.com/Lakshmisb001/Advance-java-assignment/blob/main/3a_3b_3c_StringOperations/Screenshot%202025-05-19%20232754.png
+3b.3 ReverString output link https://github.com/Lakshmisb001/Advance-java-assignment/blob/main/3a_3b_3c_StringOperations/Screenshot%202025-05-19%20232807.png
 
 3b.4 CheckPalindrome output link:https://github.com/Lakshmisb001/Advance-java-assignment/blob/main/3a_3b_3c_StringOperations/Screenshot%202025-05-19%20232828.png
 
