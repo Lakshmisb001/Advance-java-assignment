@@ -1,5 +1,5 @@
-/*Write a java program for getting different colors through ArrayList interface and delete nth
-element from the ArrayList object by using remove by index*/
+/*2. Write a java program for getting different colors through ArrayList interface and remove the
+2nd element and color "Blue" from the ArrayList*/
 package ADV_JAVA;
 import java.util.ArrayList;
 public class ArrayList_RemoveColors {
