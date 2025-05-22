@@ -2,7 +2,7 @@
 
 1b.2 ArrayList_RemoveColors output link:https://github.com/Lakshmisb001/Advance-java-assignment/blob/main/ArrayList/1b.2ArrayList_RemoveColors.png
 
-1b.3 ArrayList_RemoveNthColor output link:https://github.com/Lakshmisb001/Advance-java-assignment/blob/main/ArrayList/1b.4ArrayList_RemoveNthColor.png
+1b.3 ArrayList_RemoveNthColor output link:https://github.com/Lakshmisb001/Advance-java-assignment/blob/main/1b_ArrayList/1b_3_ArrayList_RemoveNthColor.png
 
 1b.4 ArrayList_SortColors output link:https://github.com/Lakshmisb001/Advance-java-assignment/blob/main/ArrayList/1b.4ArrayList_SortColor.png
 
