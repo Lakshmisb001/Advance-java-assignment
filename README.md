@@ -5,7 +5,6 @@ Subject Code: BCS613D
 Name: Lakshmi Shivabasappa Banakar
 USN: 4AL22CS080
 Sem/Section: VI/B
-Total Programs: 28
 
 1a.ListOperations output link:https://github.com/Lakshmisb001/Advance-java-assignment/blob/main/1a_ListOperations/1a.ListOperation.png
 
