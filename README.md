@@ -116,13 +116,6 @@ screenshot2:https://github.com/Lakshmisb001/Advance-java-assignment/blob/main/8a
 
 screenshot2:https://github.com/Lakshmisb001/Advance-java-assignment/blob/main/8a_8b_9a_9b_JDBC_CoffeProgram/Screenshot%20of%20output%208b.2.png
 
-9a.Delete coffee by ID in coffee table output link:screenshot1:https://github.com/Lakshmisb001/Advance-java-assignment/blob/main/8a_8b_9a_9b_JDBC_CoffeProgram/Screenshot%20of%20output%209a.1.png
-
-screenshot2:https://github.com/Lakshmisb001/Advance-java-assignment/blob/main/8a_8b_9a_9b_JDBC_CoffeProgram/Screenshot%20of%20output%209a.2.png
-
-9b.Show coffee names starting with letter in coffee table output link:https://github.com/Lakshmisb001/Advance-java-assignment/blob/main/8a_8b_9a_9b_JDBC_CoffeProgram/Screenshot%20of%20output%209b.png
-
-
 8c.Insert data into Emp table & salary report:output link: sceenshot1:https://github.com/Lakshmisb001/Advance-java-assignment/blob/main/8c_8d_9c_9d_JDBC_Employee_program/Screenshot%202025-05-22%20162052.png
 
 screenshot2:https://github.com/Lakshmisb001/Advance-java-assignment/blob/main/8c_8d_9c_9d_JDBC_Employee_program/Screenshot%202025-05-22%20162104.png
@@ -131,6 +124,12 @@ screenshot2:https://github.com/Lakshmisb001/Advance-java-assignment/blob/main/8c
 8d.Update employee data in Emp table: output link screenshot1:https://github.com/Lakshmisb001/Advance-java-assignment/blob/main/8c_8d_9c_9d_JDBC_Employee_program/Screenshot%202025-05-22%20163137.png
 
 screenshot2:https://github.com/Lakshmisb001/Advance-java-assignment/blob/main/8c_8d_9c_9d_JDBC_Employee_program/Screenshot%202025-05-22%20163150.png
+
+9a.Delete coffee by ID in coffee table output link:screenshot1:https://github.com/Lakshmisb001/Advance-java-assignment/blob/main/8a_8b_9a_9b_JDBC_CoffeProgram/Screenshot%20of%20output%209a.1.png
+
+screenshot2:https://github.com/Lakshmisb001/Advance-java-assignment/blob/main/8a_8b_9a_9b_JDBC_CoffeProgram/Screenshot%20of%20output%209a.2.png
+
+9b.Show coffee names starting with letter in coffee table output link:https://github.com/Lakshmisb001/Advance-java-assignment/blob/main/8a_8b_9a_9b_JDBC_CoffeProgram/Screenshot%20of%20output%209b.png
 
 9c.Insert data into Emp table in MySQL & generate report and dispalying result:output link: screenshot1:https://github.com/Lakshmisb001/Advance-java-assignment/blob/main/8c_8d_9c_9d_JDBC_Employee_program/Screenshot%202025-05-22%20163911.png
 
